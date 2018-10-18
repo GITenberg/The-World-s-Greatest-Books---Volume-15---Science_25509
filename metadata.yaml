@@ -34,6 +34,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'Q'
 - !lcsh 'Science'
+- GITenberg
 tableOfContents: 'Hypnotism : Its history, practice and theory / Bramwell -- Natural
   history / Buffon -- Vestiges of creation / Chambers -- Surface of the globe / Cuvier
   -- Origin of species / Darwin -- Elements of chemical philosophy / Davy -- Experimental
